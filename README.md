@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFF1E7&height=200&section=header&text=Hi!%20Im%20Amelia%20:D&fontSize=60&fontColor=615C58&animation=fadeIn)
 
-![Snake animation]
-(https://github.com/amelialon/amelialon/blob/output/github-contribution-grid-snake.svg)
-
 ```yaml
 name: Amelia Lon
 📍 located_in: Singapore
